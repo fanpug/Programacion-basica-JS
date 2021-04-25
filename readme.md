@@ -1,4 +1,4 @@
-# Proyecto del Primer Parcial
+# Tarea 2.2 | Problemas de programación básica
 Este repositorio fue creado para la tarea 2.2 de la materia de Desarrollo Basado en Plataformas por Humberto Alejandro Navarro Andujo.
 
 
@@ -46,6 +46,6 @@ No aceptamos contribuciones >:|
 El proyecto tiene libre licencia o algo asi ;)
 
 ## Agradecimientos
-El profesor Luis Antonio Ramirez Martinez fue quien me inspiro a realizar este proyecto, muchas gracias profe. Su clase es la unica chida.
+El profesor Luis Antonio Ramirez Martinez fue quien me inspiro a realizar este proyecto/tarea, muchas gracias profe. Su clase es la unica chida.
 
 Gracias a las personas de PurpleBooth por su referencia de como debe ser el [formato de un readme](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).

@@ -1,4 +1,4 @@
-# Tarea 2.2 | Problemas de programación básica
+# Tarea 2.2 | Problemas de programación básica 
 Este repositorio fue creado para la tarea 2.2 de la materia de Desarrollo Basado en Plataformas por Humberto Alejandro Navarro Andujo.
 
 ## Descripción de los problemas

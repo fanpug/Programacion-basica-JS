@@ -1,4 +1,4 @@
-//Programa 19.
+//Programa 19. Hacer un programa que simule el funcionamiento de un reloj digital y que permita ponerlo en hora.
 
 function currentTime() {
   var date = new Date();

@@ -1,13 +1,30 @@
 //Programa 6. Imprimir todos los numeros desde 1 hasta el numero que de el usuario
-let numImpares = 0;
+const readline = require("readline");
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
 
-for(let i = 0; i <= 100; i++){
-    if(i % 2 == 0){
-
-    }else{
+rl.question("Introduzca la cantidad de numeros que quiere que se impriman desde el 1: ", function(numInput) {
+  for(let i = 0; i <= numInput; i++){
       console.log(i);
-      numImpares++;
-    }
+  }
+  rl.close();
+});
+
+rl.on("close", function() {
+    console.log("\nBYE BYE !!!");
+    //process.exit(0);
+});
+
+
+/*
+function imprimir(){
+  numInput = prompt("Introduzca la cantidad de numeros que quiere que se impriman desde el 1", 5);
+  for(let i = 0; i <= numInput; i++){
+      console.log(i);
+  }
 }
 
-console.log("Existen " + numImpares + " numeros impares.");
+imprimir();
+*/

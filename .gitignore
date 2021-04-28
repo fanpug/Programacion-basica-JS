@@ -1,0 +1,3 @@
+*.DAT
+**/node_modules/
+*.json

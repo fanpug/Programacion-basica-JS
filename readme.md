@@ -11,7 +11,7 @@ Este repositorio fue creado para la tarea 2.2 de la materia de Desarrollo Basado
 
 4.- Hacer un programa que imprima la suma de los 100 primeros números.
 
-5.-Hacer un programa que imprima los números impares hasta el 100 y que imprima cuantos impares hay.
+5.- Hacer un programa que imprima los números impares hasta el 100 y que imprima cuantos impares hay.
 
 6.- Hacer un programa que imprima todos los números naturales que hay desde el uno hasta un número que introducimos por teclado.
 
